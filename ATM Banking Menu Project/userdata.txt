@@ -1,1 +1,1 @@
-Hello there! For better experince i suggest running the .cpp file in VS Code terminal.
+Hello there! For better experince, I suggest running the .cpp file in VS Code terminal.
